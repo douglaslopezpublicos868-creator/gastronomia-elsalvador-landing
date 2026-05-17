@@ -26,4 +26,4 @@ Douglas Recinos
 
 ## URL del sitio publicado
 
-PEGAR AQUI TU LINK DE GITHUB PAGES
+https://github.com/douglaslopezpublicos868-creator/gastronomia-elsalvador-landing.git
